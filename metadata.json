@@ -1,0 +1,6 @@
+{
+  "name": "CrispyBite - Online Food Delivery",
+  "description": "Order crispy fried chicken, zinger burgers, feast buckets, fries, and combos delivered hot & fresh to your doorstep.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
