@@ -35,7 +35,7 @@ const INITIAL_DEMO_ORDERS: Order[] = [
           description: 'Secret 11 herbs & spices crispy chicken drumsticks',
           price: 249,
           category: 'chicken',
-          image: '/src/assets/images/hero_crispy_chicken_1791867060918.jpg',
+          image: '/assets/images/hero_crispy_chicken_1791867060918.jpg',
           rating: 4.8,
           reviewsCount: 1420,
           isVeg: false,
@@ -57,7 +57,7 @@ const INITIAL_DEMO_ORDERS: Order[] = [
           description: 'Crisp chicken fillet with spicy mayonnaise',
           price: 229,
           category: 'burgers',
-          image: '/src/assets/images/burger_crispy_zinger_1791867061124.jpg',
+          image: '/assets/images/burger_crispy_zinger_1791867061124.jpg',
           rating: 4.9,
           reviewsCount: 3200,
           isVeg: false,
@@ -111,7 +111,7 @@ const INITIAL_DEMO_ORDERS: Order[] = [
           description: 'Crunchy chicken drumsticks with large fries',
           price: 799,
           category: 'buckets',
-          image: '/src/assets/images/bucket_family_feast_1791867062066.jpg',
+          image: '/assets/images/bucket_family_feast_1791867062066.jpg',
           rating: 4.9,
           reviewsCount: 2750,
           isVeg: false,
@@ -285,3 +285,4 @@ export const useOrders = () => {
   }
   return context;
 };
+
